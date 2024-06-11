@@ -1,2 +1,2 @@
 # Recommender-Systems-with-Python
-A collection of Recommender Systems using Python.
+A Collection of Recommender Systems using Python.
