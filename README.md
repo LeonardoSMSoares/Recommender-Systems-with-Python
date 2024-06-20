@@ -9,4 +9,14 @@
 
 2. Applied Recommender Systems with Python, by Akshay Kulkarni & others
 
-3. A Collection of Recommender Systems using Python.
+   download w2v gdown https://drive.google.com/uc?id=0B7XkCwpI5KDYNlNUTTlSS21pQmM
+
+   download glove wget https://nlp.stanford.edu/data/glove.6B.zip
+
+   download fastext gdown https://drive.google.com/uc?id=1vz6659Atv9OOXiakzj1xaKhZ9jxJkeFF
+   
+
+4. A Collection of Recommender Systems using Python.
+
+   Data sources:
+   https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
