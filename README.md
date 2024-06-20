@@ -16,7 +16,7 @@
    download fastext gdown https://drive.google.com/uc?id=1vz6659Atv9OOXiakzj1xaKhZ9jxJkeFF
    
 
-4. A Collection of Recommender Systems using Python.
+4. A Collection of Recommender Systems using Python
 
    Data sources:
    https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
